@@ -1,0 +1,3 @@
+# Keep the README off the published site.
+exclude:
+  - README.md
